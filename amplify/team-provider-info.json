@@ -10,6 +10,11 @@
       "StackName": "amplify-rnboyaki-production-91538",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:501546511626:stack/amplify-rnboyaki-production-91538/3d50cae0-11f8-11ed-bd43-0e2be100531f",
       "AmplifyAppId": "d2qajj211jdavo"
+    },
+    "categories": {
+      "auth": {
+        "rnboyakie2f90975": {}
+      }
     }
   }
 }
